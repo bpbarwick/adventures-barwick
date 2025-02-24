@@ -1,13 +1,13 @@
 {
   "id": "adventures-barwick",
   "title": "Adventures by Ben Barwick",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
   "url": "https://github.com/bpbarwick/adventures-barwick",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.1/module.json",
+  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.1/adventures-barwick_release.zip"
   },
   "authors": [
     {
