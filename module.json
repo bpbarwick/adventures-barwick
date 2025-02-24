@@ -1,0 +1,31 @@
+{
+  "id": "adventures-barwick",
+  "title": "Adventures by Ben Barwick",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+  "url": "https://github.com/bpbarwick/adventures-barwick",
+  "manifest": "",
+  "download": ""
+  },
+  "authors": [
+    {
+      "name": "Ben Barwick",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventures-by-ben-barwick",
+      "label": "Adventures by Ben Barwick",
+      "path": "packs/adventures-by-ben-barwick",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
