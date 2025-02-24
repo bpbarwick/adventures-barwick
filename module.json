@@ -1,13 +1,14 @@
 {
   "id": "adventures-barwick",
   "title": "Adventures by Ben Barwick",
-  "version": "0.0.1",
+  "description": "A collection of DnD 5e adventures by Ben Barwick.",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
   "url": "https://github.com/bpbarwick/adventures-barwick",
-  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.1/module.json",
-  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.1/adventures-barwick_release.zip"
+  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.2/module.json",
+  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.2/adventures-barwick_release.zip"
   },
   "authors": [
     {
