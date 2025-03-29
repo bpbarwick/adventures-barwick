@@ -1,8 +1,15 @@
-2025/03/26-14:31:58.005026 7f1dd8432b38 Recovering log #60
-2025/03/26-14:31:58.228698 7f1dd8432b38 Delete type=0 #60
-2025/03/26-14:31:58.228827 7f1dd8432b38 Delete type=3 #58
-2025/03/29-18:12:37.084655 7f18cc537b38 Level-0 table #65: started
-2025/03/29-18:12:37.085055 7f18cc537b38 Level-0 table #65: 0 bytes OK
-2025/03/29-18:12:37.563954 7f18cc537b38 Delete type=0 #63
-2025/03/29-18:12:37.564436 7f18cc537b38 Manual compaction at level-0 from '!cards!Je0Hv05TU5cXxn74' @ 72057594037927935 : 1 .. '!folders!LBQhwnoUoo03hLQ1' @ 0 : 0; will stop at (end)
-2025/03/29-18:12:37.565185 7f18cc537b38 Manual compaction at level-1 from '!cards!Je0Hv05TU5cXxn74' @ 72057594037927935 : 1 .. '!folders!LBQhwnoUoo03hLQ1' @ 0 : 0; will stop at (end)
+2025/03/29-18:49:12.541217 7f1dd7c2fb38 Recovering log #64
+2025/03/29-18:49:12.778334 7f1dd7c2fb38 Delete type=0 #64
+2025/03/29-18:49:12.778404 7f1dd7c2fb38 Delete type=3 #62
+2025/03/29-19:41:38.195160 7f18cc537b38 Level-0 table #69: started
+2025/03/29-19:41:38.301273 7f18cc537b38 Level-0 table #69: 2293 bytes OK
+2025/03/29-19:41:38.382781 7f18cc537b38 Delete type=0 #67
+2025/03/29-19:41:38.635867 7f18cc537b38 Manual compaction at level-0 from '!cards!Je0Hv05TU5cXxn74' @ 72057594037927935 : 1 .. '!folders!LBQhwnoUoo03hLQ1' @ 0 : 0; will stop at (end)
+2025/03/29-19:41:38.636610 7f18cc537b38 Manual compaction at level-1 from '!cards!Je0Hv05TU5cXxn74' @ 72057594037927935 : 1 .. '!folders!LBQhwnoUoo03hLQ1' @ 0 : 0; will stop at '!folders!LBQhwnoUoo03hLQ1' @ 22 : 0
+2025/03/29-19:41:38.636762 7f18cc537b38 Compacting 1@1 + 1@2 files
+2025/03/29-19:41:38.734601 7f18cc537b38 Generated table #70@1: 16 keys, 3219 bytes
+2025/03/29-19:41:38.734654 7f18cc537b38 Compacted 1@1 + 1@2 files => 3219 bytes
+2025/03/29-19:41:38.815897 7f18cc537b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/29-19:41:38.816312 7f18cc537b38 Delete type=2 #41
+2025/03/29-19:41:38.816461 7f18cc537b38 Delete type=2 #69
+2025/03/29-19:41:39.154794 7f18cc537b38 Manual compaction at level-1 from '!folders!LBQhwnoUoo03hLQ1' @ 22 : 0 .. '!folders!LBQhwnoUoo03hLQ1' @ 0 : 0; will stop at (end)
