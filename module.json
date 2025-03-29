@@ -8,7 +8,7 @@
       "flags": {}
     }
   ],
-  "version": "0.0.5",
+  "version": "0.0.6",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -29,7 +29,7 @@
       "name": "daria-actors",
       "label": "Daria Actors",
       "path": "packs/daria-actors",
-      "type": "ACtor",
+      "type": "Actor",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -40,7 +40,7 @@
       "name": "daria-cards",
       "label": "Daria Cards",
       "path": "packs/daria-cards",
-      "type": "Card Stack",
+      "type": "Cards",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -101,7 +101,7 @@
       "name": "daria-tables",
       "label": "Daria Tables",
       "path": "packs/daria-tables",
-      "type": "Rollable Table",
+      "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -109,6 +109,6 @@
     }
   ],
   "url": "https://github.com/bpbarwick/adventures-barwick",
-  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.5/module.json",
-  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.5/adventures-barwick_release.zip"
+  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.6/module.json",
+  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.6/adventures-barwick_release.zip"
 }
