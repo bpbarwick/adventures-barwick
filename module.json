@@ -8,7 +8,7 @@
       "flags": {}
     }
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -24,9 +24,91 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "daria-actors",
+      "label": "Daria Actors",
+      "path": "packs/daria-actors",
+      "type": "ACtor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-cards",
+      "label": "Daria Cards",
+      "path": "packs/daria-cards",
+      "type": "Card Stack",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-items",
+      "label": "Daria Items",
+      "path": "packs/daria-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-journals",
+      "label": "Daria Journals",
+      "path": "packs/daria-journals",
+      "type": "Journal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-macros",
+      "label": "Daria Macros",
+      "path": "packs/daria-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-playlists",
+      "label": "Daria Playlists",
+      "path": "packs/daria-playlists",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-scenes",
+      "label": "Daria Scenes",
+      "path": "packs/daria-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "daria-tables",
+      "label": "Daria Tables",
+      "path": "packs/daria-tables",
+      "type": "Rollable Table",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/bpbarwick/adventures-barwick",
-  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.4/module.json",
-  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.4/adventures-barwick_release.zip"
+  "manifest": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.5/module.json",
+  "download": "https://github.com/bpbarwick/adventures-barwick/releases/download/0.0.5/adventures-barwick_release.zip"
 }
